@@ -2,7 +2,7 @@
 This project is related to the implementation of the English Assistant Application, which helps us to learn English as an assistant. And, Also this package has the ability to translate from English to Persian.
 
 <p align="center">
-  <img src="https://github.com/yasharsajadi/EnglishAssistantForm/blob/main/Application_Tabs.png" width="800">
+  <img src="https://github.com/yasharsajadi/EnglishAssistantForm/blob/master/Application_Tabs.png" width="800">
 </p>
 
 ## Instruction

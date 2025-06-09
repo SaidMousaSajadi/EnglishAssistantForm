@@ -1,3 +1,11 @@
+## License
+
+This project is licensed under a custom **Academic Non-Commercial License (ANCL)**.
+
+📌 Use is permitted for **academic and research purposes only**.  
+🚫 **Commercial use is strictly prohibited** without prior written permission.  
+© 2025 [Said Mousa Sajadi]
+
 # English Assistant Form		 
 This project is related to the implementation of the English Assistant Application, which helps us to learn English as an assistant. And, Also this package has the ability to translate from English to Persian.
 
